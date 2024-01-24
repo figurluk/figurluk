@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/shrein"><img src="https://api.daily.dev/devcards/6fe90dbe3fb94fad953f2aea48934edc.png?r=ltc" width="400" alt="Luke's Dev Card"/></a>
+<a href="https://app.daily.dev/shrein"><img src="https://github.com/figurluk/figurluk/blob/master/devcard.svg" width="400" alt="Luke's Dev Card"/></a>
 
 <!--
 **figurluk/figurluk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
