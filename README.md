@@ -1,4 +1,10 @@
-<a href="https://app.daily.dev/shrein"><img src="https://github.com/figurluk/figurluk/blob/master/devcard.svg" width="400" alt="Luke's Dev Card"/></a>
+### Hi there 👋
+
+- 🌱 Always learning web development
+- 💍 Married to Veronica
+- 🙉 Hobbies include, Football, Squash and Beer
+
+<a href="https://app.daily.dev/shrein"><img src="https://github.com/figurluk/figurluk/blob/main/devcard.svg" width="400" alt="Luke's Dev Card"/></a>
 
 <!--
 **figurluk/figurluk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
